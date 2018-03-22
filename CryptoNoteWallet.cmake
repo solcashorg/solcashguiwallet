@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "solcashgui")
+set(CN_CURRENCY_DISPLAY_NAME "Solcash")
+set(CN_CURRENCY_TICKER "SOL")
